@@ -5,3 +5,5 @@ Some items are equippable weapons or pieces of armor.
 All items have a gold value and can be sold at merchants.
 Rooms of the map can be decorated with different entities or objects including enemies to fight, chests to loot, along with traps and obstacles.
 When your character dies, the game ends, or the game is exited, all progress will be lost.
+
+Run 'mvn compile exec:java -e' to Play
